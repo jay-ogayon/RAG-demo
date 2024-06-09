@@ -1,9 +1,9 @@
+arxiv
+pymupdf
 langchain
 langchain-community
 langchain-openai
-openai 
-pypdf
-faiss-cpu
+langchain-pinecone
+pinecone-client
 gradio
 python-dotenv
-ipykernel
